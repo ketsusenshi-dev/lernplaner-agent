@@ -1,0 +1,44 @@
+[
+  {
+    "id": "TASK-001",
+    "title": "Mathematik: Ableitungsregeln wiederholen",
+    "duration_minutes": 45,
+    "priority": 1,
+    "status": "offen"
+  },
+  {
+    "id": "TASK-002",
+    "title": "Informatik: KI-Agenten und Guardrails zusammenfassen",
+    "duration_minutes": 30,
+    "priority": 1,
+    "status": "offen"
+  },
+  {
+    "id": "TASK-003",
+    "title": "Englisch: Vokabeln Unit 4 lernen",
+    "duration_minutes": 25,
+    "priority": 2,
+    "status": "offen"
+  },
+  {
+    "id": "TASK-004",
+    "title": "Geschichte: Quellenanalyse vorbereiten",
+    "duration_minutes": 40,
+    "priority": 2,
+    "status": "erledigt"
+  },
+  {
+    "id": "TASK-005",
+    "title": "Biologie: Zellatmung Diagramm zeichnen",
+    "duration_minutes": 20,
+    "priority": 3,
+    "status": "offen"
+  },
+  {
+    "id": "TASK-006",
+    "title": "Deutsch: Aufsatzgliederung überarbeiten",
+    "duration_minutes": 60,
+    "priority": 2,
+    "status": "offen"
+  }
+]
